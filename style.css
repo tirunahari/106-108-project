@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color:#7ed6df ;
+}
+div {
+    background-color: grey;
+}
+button
+{
+    background-color:#22a6b3;
+    font-weight: bolder;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+  }
